@@ -1,5 +1,5 @@
 <h2 align="center">Hello There 👋 I'm Sophie.</h2>
-<P align="justify">I have a master's degree in <b>International Business</b> from QUT in Brisbane, Australia, and recently completed an intensive 9-week <B>data science</b> bootcamp in Nice, France with Le Wagon. I'm passionate about <B>anthropology</b> (B.A. from UH Mānoa), have a talent for <B>pattern recognition</b> and enjoy applying <B>data-driven solutions</b> to real-world problems. Big fan of ✨ efficiency ✨, languages (<i>five and counting...</i>) and all things film.<BR><BR>🌱 <b>Currently working on</b> a top-secret fandom-related project.<BR>
+<P align="justify">I have a master's degree in <b>International Business</b> from QUT in Brisbane, Australia, and recently completed an intensive 9-week <B>data science</b> bootcamp in Nice, France with Le Wagon. I'm passionate about <B>anthropology</b> (B.A. from UH Mānoa), have a talent for <B>pattern recognition</b> and enjoy applying <B>data-driven solutions</b> to real-world problems. Big fan of ✨ efficiency ✨, languages (<i>five and counting...</i>) and all things film.<BR><BR>🌱 <b>Currently working on</b> reviewing bootcamp projects.<BR>
 🔭 <b>Looking for a data scientist/data analyst role</b> within an established team.</p>
 
 <h4 align="left"><I>Languages and Skills:</i></h4>
